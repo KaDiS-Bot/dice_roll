@@ -40,3 +40,8 @@ footer {
   font-size: 6rem;
   color: #4ECCA3;
 }
+p.reg{
+  text-align: end;
+  font-weight: 600;
+  font-size: xx-large;
+}
