@@ -8,43 +8,43 @@ function diceROll(){
 let d =diceROll();
 let Player1=d;
 if(Player1===1){
-    document.querySelector(".img1").src="/images/dice1.png"
+    document.querySelector(".img1").src="./images/dice1.png"
 }
 if(Player1===2){
-    document.querySelector(".img1").src="/images/dice2.png"
+    document.querySelector(".img1").src="./images/dice2.png"
 }
 if(Player1===3){
-    document.querySelector(".img1").src="/images/dice3.png"
+    document.querySelector(".img1").src="./images/dice3.png"
 }
 if(Player1===4){
-    document.querySelector(".img1").src="/images/dice4.png"
+    document.querySelector(".img1").src="./images/dice4.png"
 }
 if(Player1===5){
-    document.querySelector(".img1").src="/images/dice5.png"
+    document.querySelector(".img1").src="./images/dice5.png"
 }
 if(Player1===6){
-    document.querySelector(".img1").src="/images/dice6.png"
+    document.querySelector(".img1").src="./images/dice6.png"
 }
 
 let e =diceROll();
 let Player2=e;
 if(Player2===1){
-    document.querySelector(".img2").src="/images/dice1.png"
+    document.querySelector(".img2").src="./images/dice1.png"
 }
 if(Player2===2){
-    document.querySelector(".img2").src="/images/dice2.png"
+    document.querySelector(".img2").src="./images/dice2.png"
 }
 if(Player2===3){
-    document.querySelector(".img2").src="/images/dice3.png"
+    document.querySelector(".img2").src="./images/dice3.png"
 }
 if(Player2===4){
-    document.querySelector(".img2").src="/images/dice4.png"
+    document.querySelector(".img2").src="./images/dice4.png"
 }
 if(Player2===5){
-    document.querySelector(".img2").src="/images/dice5.png"
+    document.querySelector(".img2").src="./images/dice5.png"
 }
 if(Player2===6){
-    document.querySelector(".img2").src="/images/dice6.png"
+    document.querySelector(".img2").src="./images/dice6.png"
 }
 
 
